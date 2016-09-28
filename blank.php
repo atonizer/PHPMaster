@@ -8,7 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-
+<?php
+// 07 How To Use Databases in PHP
+?>
 
 </body>
 </html>
