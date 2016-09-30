@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-// 07 How To Use Databases in PHP
+// 005 Creating a Database in PHPmyadmin.mp4
 ?>
 
 </body>
