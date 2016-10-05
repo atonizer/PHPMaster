@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-// 005 Creating a Database in PHPmyadmin.mp4
+// 015 Delete Records From Database with PHP
 ?>
 
 </body>
