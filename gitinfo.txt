@@ -3,7 +3,7 @@ git add .
 
 git status
 
-git commit -m "PHP master files"
+git commit -m "PHP master project files"
 
 git tag v1.0 // do not need it in this case
 

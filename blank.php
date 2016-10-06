@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-// 015 Delete Records From Database with PHP PHP Master
+// 08 PHP Security
 ?>
 
 </body>
