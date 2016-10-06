@@ -78,6 +78,6 @@ function deleteRows()
         die("QUERY FAILED" . mysqli_error($connection));
     }
     else{
-        echo "Record Updated";
+        echo "The record was successfully deleted";
     }
 }
