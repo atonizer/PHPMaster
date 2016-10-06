@@ -23,7 +23,6 @@ if(isset($_POST['submit'])) {
 <div class="container">
     <div class="col-xs-6">
         <h1 class="text-center">Update</h1>
-
         <form action="login_update.php" method="post">
             <div class="form-group">
                 <label for="username">Username</label>
